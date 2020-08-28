@@ -26,6 +26,7 @@
   <exec_depend>rosbridge_library</exec_depend>
   <exec_depend>rosbridge_server</exec_depend>
   <exec_depend>rosapi</exec_depend>
+  <exec_depend>hfss_msgs</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>

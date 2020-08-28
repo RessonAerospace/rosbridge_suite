@@ -1,0 +1,10 @@
+repositories:
+  hfss_msgs:
+    type: git
+    url: git@github.com:RessonAerospace/hfss-v3-ros2-interfaces.git
+    version: master
+
+  rosauth:
+    type: git
+    url: git@github.com:RessonAerospace/rosauth.git
+    version: ros2

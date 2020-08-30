@@ -10,3 +10,4 @@ install/
 log/
 hfss_msgs/
 rosauth/
+.vscode/
